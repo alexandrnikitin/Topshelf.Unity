@@ -26,7 +26,6 @@ namespace Topshelf.Unity.Sample
                     s.WhenStopped((service, control) => service.Stop());
                 });
             });
-
         }
     }
 
