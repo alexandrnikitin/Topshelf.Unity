@@ -1,0 +1,1 @@
+msbuild ..\src\Topshelf.Unity\Topshelf.Unity.csproj /t:BuildPackage /p:Configuration=Release /p:Platform=AnyCpu
