@@ -2,20 +2,19 @@
 <package >
   <metadata>
     <id>Topshelf.Unity</id>
-    <version>2.0.0</version>
+    <version>3.0.0</version>
     <title>Topshelf.Unity</title>
     <authors>Alexandr Nikitin</authors>
-    <owners>qwesoftware</owners>
     <licenseUrl>https://github.com/alexandrnikitin/Topshelf.Unity/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/alexandrnikitin/Topshelf.Unity</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Topshelf.Unity provides extensions to construct your service class from your Unity IoC container.</description>
-    <releaseNotes>Initial release</releaseNotes>
-    <copyright>© 2014-2015 Alexandr Nikitin.  All rights reserved.</copyright>
+    <releaseNotes>Update Topshelf version</releaseNotes>
+    <copyright>© 2014-2016 Alexandr Nikitin. All rights reserved.</copyright>
     <tags>Topshelf Unity</tags>
     <dependencies>
-      <dependency id="Unity" version="4.0.0" />
-      <dependency id="TopShelf" version="3.2.0" />
+      <dependency id="Unity" version="[4.0.0,5.0.0)" />
+      <dependency id="TopShelf" version="[4.0.1,5.0.0)" />
     </dependencies>
   </metadata>
 </package>
