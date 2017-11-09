@@ -1,6 +1,5 @@
-﻿using Microsoft.Practices.Unity;
-
-using Topshelf.HostConfigurators;
+﻿using Topshelf.HostConfigurators;
+using Unity;
 
 namespace Topshelf.Unity
 {

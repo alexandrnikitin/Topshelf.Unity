@@ -1,5 +1,4 @@
-﻿using Microsoft.Practices.Unity;
-
+﻿using Unity;
 using Topshelf.ServiceConfigurators;
 
 namespace Topshelf.Unity
