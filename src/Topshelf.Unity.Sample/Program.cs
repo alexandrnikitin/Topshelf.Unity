@@ -1,6 +1,6 @@
 ﻿using System;
 
-using Microsoft.Practices.Unity;
+using Unity;
 
 namespace Topshelf.Unity.Sample
 {
