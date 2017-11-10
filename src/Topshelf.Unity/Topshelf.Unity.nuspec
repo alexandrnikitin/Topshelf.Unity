@@ -13,8 +13,8 @@
     <copyright>© 2014-2016 Alexandr Nikitin. All rights reserved.</copyright>
     <tags>Topshelf Unity</tags>
     <dependencies>
-      <dependency id="Unity.Abstractions" version="2.1.1" />
-      <dependency id="TopShelf" version="[4.0.1,5.0.0)" />
+      <dependency id="Unity.Abstractions" version="[2.0.0, 3.0.0)" />
+      <dependency id="Topshelf" version="[4.0.1,5.0.0)" />
     </dependencies>
   </metadata>
 </package>
