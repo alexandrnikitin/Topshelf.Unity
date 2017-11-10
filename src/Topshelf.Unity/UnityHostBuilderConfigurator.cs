@@ -1,11 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-
-using Microsoft.Practices.Unity;
-
 using Topshelf.Builders;
 using Topshelf.Configurators;
 using Topshelf.HostConfigurators;
+using Unity;
 
 namespace Topshelf.Unity
 {

@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Topshelf.Unity</id>
-    <version>3.0.1</version>
+    <version>3.1.0</version>
     <title>Topshelf.Unity</title>
     <authors>Alexandr Nikitin</authors>
     <licenseUrl>https://github.com/alexandrnikitin/Topshelf.Unity/blob/master/LICENSE</licenseUrl>
@@ -13,7 +13,7 @@
     <copyright>© 2014-2016 Alexandr Nikitin. All rights reserved.</copyright>
     <tags>Topshelf Unity</tags>
     <dependencies>
-      <dependency id="Unity" version="[4.0.0,5.0.0)" />
+      <dependency id="Unity.Abstractions" version="2.1.1" />
       <dependency id="TopShelf" version="[4.0.1,5.0.0)" />
     </dependencies>
   </metadata>
