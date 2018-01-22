@@ -1,3 +1,6 @@
+3.1.1 (2018-01-23)
+* [UPDATE] Loosen constraint for `Unity.Abstractions`. Thanks to Jorge Cabot @jcabot21. (#7)
+
 3.0.1 (2016-05-18)
 * [UPDATE] Updated to the latest version of Topshelf 4.0.1. Thanks to Michael Murillo @zendever. (#2)
 
