@@ -1,3 +1,7 @@
+3.2.0 (2018-03-28)
+* [NEW] Sign the assembly. (#3)
+* [UPDATE] Update Unity references to the latest version. Thanks to Fabricio Carvalho Ferreira @fabricioferreira. (#9)
+
 3.1.1 (2018-01-23)
 * [UPDATE] Loosen constraint for `Unity.Abstractions`. Thanks to Jorge Cabot @jcabot21. (#7)
 
