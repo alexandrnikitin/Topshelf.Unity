@@ -54,7 +54,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Topshelf">
-      <Version>4.2.0</Version>
+      <Version>4.0.1</Version>
     </PackageReference>
     <PackageReference Include="Unity">
       <Version>5.10.1</Version>
