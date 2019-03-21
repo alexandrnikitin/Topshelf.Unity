@@ -1,3 +1,6 @@
+3.3.1 (2019-03-20)
+* [UPDATE] Support Unity.Abstractions 4.x versions. Thanks to Francois Botha @igitur. (#11)
+
 3.2.0 (2018-03-28)
 * [NEW] Sign the assembly. (#3)
 * [UPDATE] Update Unity references to the latest version. Thanks to Fabricio Carvalho Ferreira @fabricioferreira. (#9)
