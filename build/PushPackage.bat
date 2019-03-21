@@ -1,2 +1,1 @@
 ..\.nuget\NuGet.exe push ..\src\Topshelf.Unity\bin\Release\Topshelf.Unity.*.nupkg -Source https://www.nuget.org/api/v2/package
-..\.nuget\NuGet.exe push ..\src\Topshelf.Unity\bin\Release\Topshelf.Unity.*.symbols.nupkg -Source https://nuget.smbsrc.net/
