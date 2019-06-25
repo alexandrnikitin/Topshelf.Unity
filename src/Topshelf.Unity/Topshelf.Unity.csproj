@@ -53,11 +53,11 @@
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
-    <Reference Include="Topshelf, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b800c4cfcdeea87b, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Topshelf.4.0.1\lib\net452\Topshelf.dll</HintPath>
+    <Reference Include="Topshelf, Version=4.2.0.194, Culture=neutral, PublicKeyToken=b800c4cfcdeea87b, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Topshelf.4.2.0\lib\net452\Topshelf.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Abstractions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=489b6accfaf20ef0, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Unity.Abstractions.4.0.0\lib\net45\Unity.Abstractions.dll</HintPath>
+    <Reference Include="Unity.Abstractions, Version=5.11.1.0, Culture=neutral, PublicKeyToken=489b6accfaf20ef0, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Unity.Abstractions.5.11.1\lib\net45\Unity.Abstractions.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
