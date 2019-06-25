@@ -1,3 +1,6 @@
+4.0.0 (2019-06-24)
+* [UPDATE] Support Unity.Abstractions 5.x versions. Thanks to Hadi Eskandari @HEskandari. (#13)
+
 3.3.1 (2019-03-20)
 * [UPDATE] Support Unity.Abstractions 4.x versions. Thanks to Francois Botha @igitur. (#11)
 
