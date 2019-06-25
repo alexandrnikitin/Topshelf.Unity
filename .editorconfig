@@ -1,0 +1,33 @@
+root = true
+
+[*]
+insert_final_newline = true
+
+[*.{cs,fs,fsx}]
+indent_size = 4
+indent_style = space
+
+[*.{sln,csproj,yml}]
+indent_size = 2
+indent_style = space
+
+[*.cs]
+# Organize usings
+dotnet_sort_system_directives_first = true
+
+# Indentation preferences
+csharp_indent_block_contents = true
+csharp_indent_braces = false
+csharp_indent_case_contents = true
+csharp_indent_switch_labels = true
+csharp_indent_labels = one_less_than_current
+
+# avoid this. unless absolutely necessary
+dotnet_style_qualification_for_field = false:suggestion
+dotnet_style_qualification_for_property = false:suggestion
+dotnet_style_qualification_for_method = false:suggestion
+dotnet_style_qualification_for_event = false:suggestion
+
+# use language keywords instead of BCL types
+dotnet_style_predefined_type_for_locals_parameters_members = true:suggestion
+dotnet_style_predefined_type_for_member_access = true:suggestion
