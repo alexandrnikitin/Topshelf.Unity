@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Topshelf.Unity</id>
-    <version>4.0.0</version>
+    <version>4.0.1</version>
     <title>Topshelf.Unity</title>
     <authors>Alexandr Nikitin</authors>
     <licenseUrl>https://github.com/alexandrnikitin/Topshelf.Unity/blob/master/LICENSE</licenseUrl>
