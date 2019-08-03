@@ -1,3 +1,6 @@
+4.0.1 (2019-08-03)
+* [UPDATE] Lowering Topshelf and Unity.Unity.Abstractions dependencies. Thanks to @Kesmy. (#18)
+
 4.0.0 (2019-06-24)
 * [UPDATE] Support Unity.Abstractions 5.x versions. Thanks to Hadi Eskandari @HEskandari. (#13)
 
