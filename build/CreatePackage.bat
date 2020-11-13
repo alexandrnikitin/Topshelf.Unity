@@ -1,1 +1,1 @@
-msbuild ..\src\Topshelf.Unity\Topshelf.Unity.csproj /t:BuildPackage /p:Configuration=Release /p:Platform=AnyCpu
+dotnet pack ..\src\Topshelf.Unity\Topshelf.Unity.csproj -c Release

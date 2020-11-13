@@ -1,3 +1,7 @@
+4.0.2 (2020-11-10)
+* [NEW] Multi-target .NET Standard 2.0 and .NET Framework 4.5.2. (#17)
+* [UPDATE] Bumped minimum support of Unity.Abstractions to 4.1.0 and Topshelf to 4.2.1. (#17)
+
 4.0.1 (2019-08-03)
 * [UPDATE] Lowering Topshelf and Unity.Unity.Abstractions dependencies. Thanks to @Kesmy. (#18)
 
